@@ -1,13 +1,13 @@
-import { Background } from './components/Background';
-import { Hero } from './components/Hero';
-import { About } from './components/About';
-import { Reasons } from './components/Reasons';
-import { Economy } from './components/Economy';
-import { Operations } from './components/Operations';
-import { Arena } from './components/Arena';
-import { Future } from './components/Future';
-import { FooterCTA } from './components/FooterCTA';
-import { Deck } from './components/Deck';
+import { Background } from './components/background';
+import { Hero } from './components/hero';
+import { About } from './components/about';
+import { Reasons } from './components/reasons';
+import { Economy } from './components/economy';
+import { Operations } from './components/operations';
+import { Arena } from './components/arena';
+import { Future } from './components/future';
+import { FooterCTA } from './components/footerCTA';
+import { Deck } from './components/deck';
 import { TimeCards } from './components/TimeCards';
 
 export default function App() {
